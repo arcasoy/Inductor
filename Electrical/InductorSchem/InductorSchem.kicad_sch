@@ -1846,7 +1846,7 @@
     (property "Value" "Breakout" (id 1) (at 259.08 44.4499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm" (id 2) (at 257.81 41.91 0)
+    (property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm" (id 2) (at 257.81 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 257.81 41.91 0)
@@ -2025,7 +2025,7 @@
       (reference "J4") (unit 1) (value "VOut") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm")
     )
     (path "/cc3fb632-0047-4688-b4ad-9a663a869fc9"
-      (reference "J5") (unit 1) (value "Breakout") (footprint "Connector_Wire:SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm")
+      (reference "J5") (unit 1) (value "Breakout") (footprint "Connector_Wire:SolderWire-0.5sqmm_1x04_P4.8mm_D0.9mm_OD2.3mm")
     )
     (path "/2401792e-5b5c-4db9-b5fd-25c669279103"
       (reference "R1") (unit 1) (value "5.1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
