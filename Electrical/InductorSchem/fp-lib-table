@@ -2,4 +2,5 @@
   (lib (name "Seeeduino-XIAO")(type "KiCad")(uri "${KIPRJMOD}/Seeeduino XIAO KICAD/")(options "")(descr ""))
   (lib (name "InductorProjFootprints")(type "KiCad")(uri "${KIPRJMOD}/InductorProjFootprints.pretty")(options "")(descr ""))
   (lib (name "ul_CY8C9540A-24PVXI")(type "KiCad")(uri "${KIPRJMOD}/ul_CY8C9540A-24PVXI/KiCAD/2022-02-16_03-01-01/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_MCP23018-E-SP")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP23018-E-SP/KiCAD/2022-02-25_16-03-49/footprints.pretty")(options "")(descr ""))
 )
