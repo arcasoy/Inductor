@@ -1,0 +1,19 @@
+Spacing between keycaps: 2mm
+
+Layout Keycap Count:
+Macropad: 20 x 1u
+Left Keys: 28 x 1u, 1 x 2u
+Right Keys: 28 x 1u, 1 x 2u
+Numpad: 14 x 1u, 3 x 2u
+Total: 90 x 1u, 5 x 2u
+
+MKUltra MBK Choc Keycaps Order: (https://mkultra.click/mbk-choc-keycaps)
+1 X Alphas: 40 x 1u, 2 x 1u homing
+1 X Orthos: 20 x 1u, 4 x 2u
+1 X 2U: 2 x 2u
+
+Horizontal (Column) Spacing: 19.5mm
+Vertical (Row) Spacing: 18.5mm
+
+Notes for LayoutDWG: 
+Curved key area is not done, needs to factor in 2mm spacing between all row column staggers.
