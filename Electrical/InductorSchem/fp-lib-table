@@ -4,4 +4,5 @@
   (lib (name "ul_CY8C9540A-24PVXI")(type "KiCad")(uri "${KIPRJMOD}/ul_CY8C9540A-24PVXI/KiCAD/2022-02-16_03-01-01/footprints.pretty")(options "")(descr ""))
   (lib (name "ul_MCP23018-E-SP")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP23018-E-SP/KiCAD/2022-02-25_16-03-49/footprints.pretty")(options "")(descr ""))
   (lib (name "USB4515-GF-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/USB4515-GF-A_REVA")(options "")(descr ""))
+  (lib (name "keyboard_reversible")(type "KiCad")(uri "C:/Users/Alex/Desktop/Coding/The-Inductor/Electrical/Reference/keyboard_reversible.pretty-main")(options "")(descr ""))
 )
